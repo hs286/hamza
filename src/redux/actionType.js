@@ -1,0 +1,7 @@
+export const GET_SERVICES = "GET_SERVICES";
+export const GET_SERVICE_BY_ID = "GET_SERVICE_BY_ID";
+export const GET_CART_SERVICES="GET_CART_SERVICES";
+export const GET_HOME_DATA="GET_HOME_DATA";
+export const REGISTER_USER="REGISTER_USER";
+export const USER_LOGIN="USER_LOGIN";
+

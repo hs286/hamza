@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7046843a.css",
+    "main.js": "/static/js/main.a332a796.js",
+    "static/media/values.png": "/static/media/values.d14f1ef0b45e8c24dccd.png",
+    "static/media/caring.png": "/static/media/caring.16bfc155fe4a4ada94e8.png",
+    "static/media/zoomlogo.png": "/static/media/zoomlogo.c067f84e4e55a575fb01.png",
+    "index.html": "/index.html",
+    "main.7046843a.css.map": "/static/css/main.7046843a.css.map",
+    "main.a332a796.js.map": "/static/js/main.a332a796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7046843a.css",
+    "static/js/main.a332a796.js"
+  ]
+}
